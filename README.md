@@ -1,145 +1,61 @@
-# ⚙️ Using GitHub Action on a profile repository (~10 min)
+<h2 align="left">Hey Professionals! 👋 I'm Nikhil, a technology enthusiast from the bustling heart of India.Let's collaborate and create something exciting together !  🚀</h2>
 
-Setup a GitHub Action which runs periodically and pushes generated images to a repository.
+###
 
-## 0️ Setup a personal repository
+<p align="left">Hey there! I'm Nikhil Kumar Jain, your go-to guy for all things tech! 🚀 Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity 🌟.<br><br>🔍 Visionary Mindset: More than just a name, I embody visionary thinking and relentless determination. As a Computer Science and Engineering enthusiast, I thrive on pushing the boundaries of innovation.<br><br>🎓 Academic Brilliance: Proudly studying at Walchand Institute of Technology, Solapur, and holding a Diploma in Computer Technology from Solapur Education Society's Polytechnic, I'm laying the foundation for an epic career journey.<br><br>💻 Technical Wizardry : With expertise in Python, Java, C++, SQL, and more, I'm your tech guru for everything from database management to mobile app development.<br><br>🏆 Trailblazing Projects: From pioneering cybersecurity solutions to crafting intuitive hospital management systems, I'm all about setting new standards and pushing the envelope of excellence.<br><br>🥇 Awards & Accolades: I've clinched finalist spots at the Smart India Hackathon 2023 and emerged as a winner at Unlock 2022, proving my mettle in the tech arena.<br><br>🎓 Certified Excellence: With certifications from tech giants like Microsoft, MongoDB, Infosys, and Cisco Networking Academy, I'm constantly leveling up my skills and staying ahead of the curve.<br><br>🌐 Future-Ready Innovator : My vision extends beyond today's challenges. I'm dedicated to creating impactful solutions that shape a brighter tomorrow.<br><br>Join me on this exciting journey of innovation, collaboration, and endless possibilities! Together, let's redefine what's possible in the world of technology.Let's collaborate and create something truly <br>remarkable! 🌐</p>
 
-Create a repository with the same name as your GitHub login (if it doesn't exist).
+###
 
-![Setup personal repository](/.github/readme/imgs/setup_personal_repository.light.png#gh-light-mode-only)
-![Setup personal repository](/.github/readme/imgs/setup_personal_repository.dark.png#gh-dark-mode-only)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jain-nikhilkumar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jain-nikhilkumar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Its `README.md` will be displayed on your user profile:
+###
 
-![GitHub Profile Example](/.github/readme/imgs/example_github_profile.light.png#gh-light-mode-only)
-![GitHub Profile Example](/.github/readme/imgs/example_github_profile.dark.png#gh-dark-mode-only)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 1️ Create a GitHub personal token
+###
 
-> 💡 A GitHub personal token is required since this action will fetch data that cannot be accessed through repository-scoped tokens (like [`${{ secrets.GITHUB_TOKEN }}` or `${{ github.token }}`](https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret)) such as users, organizations, issues, pull requests, comments, commits, activity, etc.
+<div align="left">
+  <a href="www.linkedin.com/in/nikhilkumar-jain2411" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="nikhilkumarjain28@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  <a href="https://t.me/NikhilkumarJ_2411" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/jain_nikhilkumar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-From the `Developer settings` of your account settings, select `Personal access tokens` to create a new token.
+###
 
-No scopes are required, but additional one may be required depending on which features will be used. Each plugin documentation enumerates which scopes are required to make it work.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-As a general rule, the following scopes may be required:
-- `public_repo` for some plugins
-- `read:org` for all organizations related metrics
-- `repo` for all private repositories related metrics
-  - `read:user` for some private repositories related metrics
-- `read:packages` for some packages related metrics
-- `read:project` for some projects related metrics
-- `gist` for publishing renders to gists instead of a repository
+###
 
-> 💡 For security reasons, it is advised to always use the least amount of scopes. It is possible to prevent security issues by [forking this repository](https://github.com/lowlighter/metrics/fork) and using it in your workflow instead (more information available in step 3)
+<br clear="both">
 
-![Setup a GitHub personal token](/.github/readme/imgs/setup_personal_token.light.png#gh-light-mode-only)
-![Setup a GitHub personal token](/.github/readme/imgs/setup_personal_token.dark.png#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/Jain-nikhilkumar/Jain-nikhilkumar/output/snake.svg" alt="Snake animation" />
 
-A scope-less token can still display private contributions by enabling `Include private contributions on my profile` in account settings:
-
-![Enable "Include private contributions on my profile`"](/.github/readme/imgs/setup_private_contributions.light.png#gh-light-mode-only)
-![Enable "Include private contributions on my profile`"](/.github/readme/imgs/setup_private_contributions.dark.png#gh-dark-mode-only)
-
-When a plugin has not enough scopes to operate (and `plugins_errors_fatal` is disabled), an error will be reported in the rendering like below:
-
-![Plugin error example](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.error.svg)
-
-## 2️ Put your GitHub personal token in repository secrets
-
-Go to the `Settings` of your repository and to create a new secret and paste your freshly generated GitHub token there.
-
-![Setup a repository secret](/.github/readme/imgs/setup_repository_secret.light.png#gh-light-mode-only)
-![Setup a repository secret](/.github/readme/imgs/setup_repository_secret.dark.png#gh-dark-mode-only)
-
-## 3️ Setup GitHub Action workflow
-
-Create a new workflow from the `Actions` tab of repository and paste the following:
-
-```yaml
-name: Metrics
-on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-```
-
-Default output action is to commit rendered metrics to target repository on each run.
-
-![Action update example](/.github/readme/imgs/example_action_update.light.png#gh-light-mode-only)
-![Action update example](/.github/readme/imgs/example_action_update.dark.png#gh-dark-mode-only)
-
-Use [`output_action`](/source/plugins/core/README.md#-configuring-output-action) to change this behaviour to use either pull requests, gists or manually handle renders.
-
-### 3️.1️ Choosing between `@latest`, `@master`/`@main`, a fork or a pinned version
-
-There are several *metrics* versions that can be used in workflows:
-
-- `@latest`
-  - ✔️ Stable version
-- `@master`/`@main`
-  - ✔️ Enjoy new features and bug fixes as they're being released
-  - ✔️ Helps discovering new issues
-  - ➖ Jobs may fail occasionally (watch [issues](https://github.com/lowlighter/metrics/issues) and [discussions](https://github.com/lowlighter/metrics/discussions) for bug tracking)
-- `@{fork}`
-  - ✔️ Secure as you're in control
-  - ✔️ Advised when using additional scopes in personal access token
-  - ➖ Manual updates (watch new [releases](https://github.com/lowlighter/metrics/releases) for updates)
-- `@v{x}.{x}`
-  - ➖ Pinned versions have no real advantages
-
-> 💡 Workflows are always compatible with previous version as *metrics* workflow-breaking changes are never introduced. In fact, even workflows from v1.0 are still compatible!
-
-*Example: using a forked version*
-```yaml
-  - uses: user/metrics@master
-```
-
-> ⚠️ Be sure to use the default branch (`@master`) on forks to apply any changes made!
-
-### 3️.2️ Configure *metrics*
-
-Read [documentation](/README.md#-documentation) for more informations about configuration.
-It is advised to start with [`🧱 core`](/source/plugins/core/README.md) plugin documentation.
-
-It is also possible to use [metrics.lecoq.io](https://metrics.lecoq.io) to play with configuration options, preview renders and finally copy the auto-generated workflow code.
-
-## 4️ Add images to your profile `README.md`
-
-Update profile `README.md` to include rendered image (filename may differ if `filename` option has been set, use the correct path accordingly).
-
-*Example: add rendered image with markdown*
-```markdown
-![Metrics](/github-metrics.svg)
-```
-
-*Example: add rendered image with html for more customization*
-```html
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-```
-
-*Example: add rendered image and prevent GitHub from auto linking to the image*
-```html
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-```
-
-*Example: add rendered image when using `config_display: columns`*
-```html
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-```
+###
