@@ -5,13 +5,21 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jain-nikhilkumar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jain-nikhilkumar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jain-nikhilkumar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="300" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jain-nikhilkumar&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="300" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jain-nikhilkumar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="300" alt="languages graph"  />
 </div>
 
 ###
 
 <p align="left">Hey there! I'm Nikhil Kumar Jain, your go-to guy for all things tech! 🚀 Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity 🌟.<br><br>🔍 Visionary Mindset: More than just a name, I embody visionary thinking and relentless determination. As a Computer Science and Engineering enthusiast, I thrive on pushing the boundaries of innovation.<br><br>🎓 Academic Brilliance: Proudly studying at Walchand Institute of Technology, Solapur, and holding a Diploma in Computer Technology from Solapur Education Society's Polytechnic, I'm laying the foundation for an epic career journey.<br><br>💻 Technical Wizardry : With expertise in Python, Java, C++, SQL, and more, I'm your tech guru for everything from database management to mobile app development.<br><br>🏆 Trailblazing Projects: From pioneering cybersecurity solutions to crafting intuitive hospital management systems, I'm all about setting new standards and pushing the envelope of excellence.<br><br>🥇 Awards & Accolades: I've clinched finalist spots at the Smart India Hackathon 2023 and emerged as a winner at Unlock 2022, proving my mettle in the tech arena.<br><br>🎓 Certified Excellence: With certifications from tech giants like Microsoft, MongoDB, Infosys, and Cisco Networking Academy, I'm constantly leveling up my skills and staying ahead of the curve.<br><br>🌐 Future-Ready Innovator : My vision extends beyond today's challenges. I'm dedicated to creating impactful solutions that shape a brighter tomorrow.<br><br>Join me on this exciting journey of innovation, collaboration, and endless possibilities! Together, let's redefine what's possible in the world of technology.Let's collaborate and create something truly <br>remarkable! 🌐</p>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Jain-nikhilkumar&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jain-nikhilkumar&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -76,11 +84,15 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://open.spotify.com/user/s8n1mjf0z68vtq44ywcnl2h1e">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=s8n1mjf0z68vtq44ywcnl2h1e&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
