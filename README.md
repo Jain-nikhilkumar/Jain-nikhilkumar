@@ -2,11 +2,9 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jain-nikhilkumar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jain-nikhilkumar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jain-nikhilkumar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jain-nikhilkumar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -82,15 +80,15 @@
 
 ###
 
-<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="right">
   <a href="https://open.spotify.com/user/s8n1mjf0z68vtq44ywcnl2h1e">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=s8n1mjf0z68vtq44ywcnl2h1e&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
