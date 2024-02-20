@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Hey there! I'm Nikhil Kumar Jain, your go-to guy for all things tech! 🚀 Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity 🌟.<br><br>🔍 Visionary Mindset: More than just a name, I embody visionary thinking and relentless determination. As a Computer Science and Engineering enthusiast, I thrive on pushing the boundaries of innovation.<br><br>🎓 Academic Brilliance: Proudly studying at Walchand Institute of Technology, Solapur, and holding a Diploma in Computer Technology from Solapur Education Society's Polytechnic, I'm laying the foundation for an epic career journey.<br><br>💻 Technical Wizardry : With expertise in Python, Java, C++, SQL, and more, I'm your tech guru for everything from database management to mobile app development.<br><br>🏆 Trailblazing Projects: From pioneering cybersecurity solutions to crafting intuitive hospital management systems, I'm all about setting new standards and pushing the envelope of excellence.<br><br>🥇 Awards & Accolades: I've clinched finalist spots at the Smart India Hackathon 2023 and emerged as a winner at Unlock 2022, proving my mettle in the tech arena.<br><br>🎓 Certified Excellence: With certifications from tech giants like Microsoft, MongoDB, Infosys, and Cisco Networking Academy, I'm constantly leveling up my skills and staying ahead of the curve.<br><br>🌐 Future-Ready Innovator : My vision extends beyond today's challenges. I'm dedicated to creating impactful solutions that shape a brighter tomorrow.<br><br>Join me on this exciting journey of innovation, collaboration, and endless possibilities! Together, let's redefine what's possible in the world of technology.Let's collaborate and create something truly <br>remarkable! 🌐</p>
+<p align="left">Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech! 🚀 Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity 🌟.<br><br>🔍 Visionary Mindset: More than just a name, I embody visionary thinking and relentless determination. As a Computer Science and Engineering enthusiast, I thrive on pushing the boundaries of innovation.<br><br>🎓 Academic Brilliance: Proudly studying at Walchand Institute of Technology, Solapur, and holding a Diploma in Computer Technology from Solapur Education Society's Polytechnic, I'm laying the foundation for an epic career journey.<br><br>💻 Technical Wizardry : With expertise in Python, Java, C++, SQL, and more, I'm your tech guru for everything from database management to mobile app development.<br><br>🏆 Trailblazing Projects: From pioneering cybersecurity solutions to crafting intuitive hospital management systems, I'm all about setting new standards and pushing the envelope of excellence.<br><br>🥇 Awards & Accolades: I've clinched finalist spots at the Smart India Hackathon 2023 and emerged as a winner at Unlock 2022, proving my mettle in the tech arena.<br><br>🎓 Certified Excellence: With certifications from tech giants like Microsoft, MongoDB, Infosys, and Cisco Networking Academy, I'm constantly leveling up my skills and staying ahead of the curve.<br><br>🌐 Future-Ready Innovator : My vision extends beyond today's challenges. I'm dedicated to creating impactful solutions that shape a brighter tomorrow.<br><br>Join me on this exciting journey of innovation, collaboration, and endless possibilities! Together, let's redefine what's possible in the world of technology.Let's collaborate and create something truly <br>remarkable! 🌐</p>
 
 ###
 
@@ -60,28 +60,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nikhilkumar-jain2411/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="nikhilkumarjain28@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  <a href="https://t.me/NikhilkumarJ_2411" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/jain_nikhilkumar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<img align="left" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="347" src="https://drive.google.com/file/d/1rVw9T8kEKujClxbug8bbSu4vim2U2Lgi/view?usp=sharing"  />
 
 ###
 
@@ -99,7 +78,23 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nikhilkumar-jain2411/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="nikhilkumarjain28@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  <a href="https://t.me/NikhilkumarJ_2411" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/jain_nikhilkumar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
