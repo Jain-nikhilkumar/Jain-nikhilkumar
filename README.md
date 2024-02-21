@@ -1,4 +1,4 @@
-<h2 align="left">Hey Professionals! 👋 I'm Nikhil, a technology enthusiast from the bustling heart of India.Lets collaborate and create something exciting together !  🚀</h2>
+<h2 align="left">Hey Professionals! 👋 I'm Nikhil, a technology enthusiast from the bustling heart of India.Let's collaborate and create something exciting together !  🚀</h2>
 
 ###
 
