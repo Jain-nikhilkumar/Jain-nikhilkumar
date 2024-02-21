@@ -1,4 +1,4 @@
-<h2 align="left">Hey Professionals! 👋 I'm Nikhil, a technology enthusiast from the bustling heart of India.Let's collaborate and create something exciting together !  🚀</h2>
+<h2 align="left">Hey Professionals! 👋 I'm Nikhil, a technology enthusiast from the bustling heart of India.Lets collaborate and create something exciting together !  🚀</h2>
 
 ###
 
@@ -60,14 +60,8 @@
 
 ###
 
-<img align="left" height="347" src="https://i.pinimg.com/564x/b0/4d/64/b04d64414c32dc86a24532fbcf08c6f4.jpg"  />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/s8n1mjf0z68vtq44ywcnl2h1e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=s8n1mjf0z68vtq44ywcnl2h1e&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img height="380" src="https://i.pinimg.com/564x/b0/4d/64/b04d64414c32dc86a24532fbcf08c6f4.jpg"  />
 </div>
 
 ###
