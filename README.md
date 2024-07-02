@@ -1,15 +1,18 @@
 <h2 align="left">Hey Professionals! 👋 I'm Nikhil, a technology enthusiast from the bustling heart of India.Let's collaborate and create something exciting together !  🚀</h2>
 
 ###
-<!--<div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jain-nikhilkumar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jain-nikhilkumar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+</div> 
+
+
+<!--
 <a href="https://github.com/Jain-nikhilkumar">
     <img src="https://github-stats-alpha.vercel.app/api?username=Jain-nikhilkumar&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
     <img src="https://github-readme-stats.vercel.app/api/username=Jain-nikhilkumar&locale=en&hide_title=false&&cc=22272e&tc=37BCF6&ic=fff&bc=0000 />
 </a>
-
+-->
 ###
 <p align="left">Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech! 🚀 Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity 🌟.<br><br>🔍 Visionary Mindset: More than just a name, I embody visionary thinking and relentless determination. As a Computer Science and Engineering enthusiast, I thrive on pushing the boundaries of innovation.<br><br>🎓 Academic Brilliance: Proudly studying at Walchand Institute of Technology, Solapur, and holding a Diploma in Computer Technology from Solapur Education Society's Polytechnic, I'm laying the foundation for an epic career journey.<br><br>💻 Technical Wizardry : With expertise in Python, Java, C++, SQL, and more, I'm your tech guru for everything from database management to mobile app development.<br><br>🏆 Trailblazing Projects: From pioneering cybersecurity solutions to crafting intuitive hospital management systems, I'm all about setting new standards and pushing the envelope of excellence.<br><br>🥇 Awards & Accolades: I've clinched finalist spots at the Smart India Hackathon 2023 and emerged as a winner at Unlock 2022, proving my mettle in the tech arena.<br><br>🎓 Certified Excellence: With certifications from tech giants like Microsoft, MongoDB, Infosys, and Cisco Networking Academy, I'm constantly leveling up my skills and staying ahead of the curve.<br><br>🌐 Future-Ready Innovator : My vision extends beyond today's challenges. I'm dedicated to creating impactful solutions that shape a brighter tomorrow.<br><br>Join me on this exciting journey of innovation, collaboration, and endless possibilities! Together, let's redefine what's possible in the world of technology.Let's collaborate and create something truly <br>remarkable! 🌐</p>
 
