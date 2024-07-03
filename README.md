@@ -18,8 +18,8 @@
 
 
 ###
-<a  style="color: #1AA4F7;">
-  <p>
+
+  <p style="color: #1AA4F7;">
     Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech!  Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity .<br><br>
      Visionary Mindset: More than just a name, I embody visionary thinking and relentless determination. As a Computer Science and Engineering enthusiast, I thrive on pushing the boundaries of innovation.<br><br>
      Academic Brilliance: Proudly studying at Walchand Institute of Technology, Solapur, and holding a Diploma in Computer Technology from Solapur Education Society's Polytechnic, I'm laying the foundation for an epic career journey.<br><br>
@@ -30,7 +30,6 @@
      Future-Ready Innovator : My vision extends beyond today's challenges. I'm dedicated to creating impactful solutions that shape a brighter tomorrow.<br><br>
     Join me on this exciting journey of innovation, collaboration, and endless possibilities! Together, let's redefine what's possible in the world of technology.Let's collaborate and create something truly <br>remarkable! 
   </p>
-</a>
 
 <!--
 
