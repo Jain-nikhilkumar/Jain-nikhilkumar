@@ -18,11 +18,6 @@
 
 
 ###
-
-<a href="https://github.com/Jain-nikhilkumar">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nikhilkumar+Jain+%7C;Software+Engineer+%7C+Flutter+Developer+%7C;Artificial+Intelligence+and+Machine+Learning;" alt="Typing SVG" />
-</a>
-
 Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech! 🚀 Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity 🌟.
 
 ### Visionary Mindset
@@ -121,7 +116,7 @@ Join me on this exciting journey of innovation, collaboration, and endless possi
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:nikhilkumarjain28@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white",height="35>
 </a>
   
   <a href="https://t.me/NikhilkumarJ_2411" target="_blank">
