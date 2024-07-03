@@ -19,25 +19,35 @@
 
 ###
 
-<p style="color: #1AA4F7;">
-  Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech! Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity .<br><br>
+<a href="https://github.com/Jain-nikhilkumar">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nikhilkumar+Jain+%7C;Software+Engineer+%7C+Flutter+Developer+%7C;Artificial+Intelligence+and+Machine+Learning;" alt="Typing SVG" />
+</a>
 
-  Visionary Mindset: More than just a name, I embody visionary thinking and relentless determination. As a Computer Science and Engineering enthusiast, I thrive on pushing the boundaries of innovation.<br><br>
+Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech! 🚀 Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity 🌟.
 
-  Academic Brilliance: Proudly studying at Walchand Institute of Technology, Solapur, and holding a Diploma in Computer Technology from Solapur Education Society's Polytechnic, I'm laying the foundation for an epic career journey.<br><br>
+### Visionary Mindset
+More than just a name, I embody visionary thinking and relentless determination. As a Computer Science and Engineering enthusiast, I thrive on pushing the boundaries of innovation.
 
-  Technical Wizardry : With expertise in Python, Java, C++, SQL, and more, I'm your tech guru for everything from database management to mobile app development.<br><br>
+### Academic Brilliance
+Proudly studying at Walchand Institute of Technology, Solapur, and holding a Diploma in Computer Technology from Solapur Education Society's Polytechnic, I'm laying the foundation for an epic career journey.
 
-  Trailblazing Projects: From pioneering cybersecurity solutions to crafting intuitive hospital management systems, I'm all about setting new standards and pushing the envelope of excellence.<br><br>
+### Technical Wizardry
+With expertise in Python, Java, C++, SQL, and more, I'm your tech guru for everything from database management to mobile app development.
 
-  Awards & Accolades: I've clinched finalist spots at the Smart India Hackathon 2023 and emerged as a winner at Unlock 2022, proving my mettle in the tech arena.<br><br>
+### Trailblazing Projects
+From pioneering cybersecurity solutions to crafting intuitive hospital management systems, I'm all about setting new standards and pushing the envelope of excellence.
 
-  Certified Excellence: With certifications from tech giants like Microsoft, MongoDB, Infosys, and Cisco Networking Academy, I'm constantly leveling up my skills and staying ahead of the curve.<br><br>
+### Awards & Accolades
+I've clinched finalist spots at the Smart India Hackathon 2023 and emerged as a winner at Unlock 2022, proving my mettle in the tech arena.
 
-  Future-Ready Innovator : My vision extends beyond today's challenges. I'm dedicated to creating impactful solutions that shape a brighter tomorrow.<br><br>
+### Certified Excellence
+With certifications from tech giants like Microsoft, MongoDB, Infosys, and Cisco Networking Academy, I'm constantly leveling up my skills and staying ahead of the curve.
 
-  Join me on this exciting journey of innovation, collaboration, and endless possibilities! Together, let's redefine what's possible in the world of technology.Let's collaborate and create something truly <br>remarkable! 
-</p>
+### Future-Ready Innovator
+My vision extends beyond today's challenges. I'm dedicated to creating impactful solutions that shape a brighter tomorrow.
+
+Join me on this exciting journey of innovation, collaboration, and endless possibilities! Together, let's redefine what's possible in the world of technology. Let's collaborate and create something truly remarkable! 🌐
+
 
 
 
