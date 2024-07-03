@@ -18,7 +18,7 @@
 
 
 ###
-<a href="https://github.com/Jain-nikhilkumar" style="color: #1AA4F7;">
+<a  style="color: #1AA4F7;">
   <p>
     Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech!  Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity .<br><br>
      Visionary Mindset: More than just a name, I embody visionary thinking and relentless determination. As a Computer Science and Engineering enthusiast, I thrive on pushing the boundaries of innovation.<br><br>
