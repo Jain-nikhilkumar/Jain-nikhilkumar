@@ -19,6 +19,10 @@
 
 ###
 
+<p style="color: #1AA4F7; cursor: pointer;">
+  Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech!  Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity .<br><br>
+  </p>
+
 <a href="https://github.com/Jain-nikhilkumar" style="color: #1AA4F7;">
   <p>
     Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech!  Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity .<br><br>
