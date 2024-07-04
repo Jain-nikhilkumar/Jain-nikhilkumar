@@ -2,12 +2,9 @@
 <a href="https://github.com/Jain-nikhilkumar">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nikhilkumar+Jain+%7C;Software+Engineer+%7C+Flutter+Developer+%7C;Artificial Intelligence+and+Machine+Learning;" alt="Typing SVG" />
 </a>
-<br/>
-</h2>
-
+</h2
 ###
 <div align="center">
-
 <a href="https://github.com/Jain-nikhilkumar">
     <img src="https://github-stats-alpha.vercel.app/api?username=Jain-nikhilkumar&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
    
