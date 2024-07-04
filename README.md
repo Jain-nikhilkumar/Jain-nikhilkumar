@@ -13,14 +13,12 @@
 
 * 📖 Pursuing B.Tech in Computer Sciendc & Engineering @ [Walchand Institute of Technology, Solapur](https://witsolapur.org/). 
 
-* 🎓 Currently serving as an intern at Infosys Springboard 
+* 🎓 Currently serving as an intern at Infosys Springboard.
 
-* 💻 Currently building Masked Text Summmerizing  models for developing an efficient inference pipeline for real-time summarization.
-
-
+* 💻 Currently building Text Summmerizing  models for developing an efficient inference pipeline for real-time summarization.
 
 ###
-<!--Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech! 🚀 Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity 🌟.
+Hey there! I'm NikhilKumar Jain, your go-to guy for all things tech! 🚀 Based in the vibrant heart of India, I'm on a mission to revolutionize the tech landscape with my passion and ingenuity 🌟.
 
 ### Visionary Mindset
 More than just a name, I embody visionary thinking and relentless determination. As a Computer Science and Engineering enthusiast, I thrive on pushing the boundaries of innovation.
@@ -46,7 +44,7 @@ My vision extends beyond today's challenges. I'm dedicated to creating impactful
 Join me on this exciting journey of innovation, collaboration, and endless possibilities! Together, let's redefine what's possible in the world of technology. Let's collaborate and create something truly remarkable! 🌐
 
 
--->
+
 ###
 
 <div align="left">
