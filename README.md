@@ -18,7 +18,7 @@
 
 * 📖 Pursuing B.Tech in Computer Sciendc & Engineering @ [Walchand Institute of Technology, Solapur](https://witsolapur.org/). 
 
-* 🎓 Currently serving as an intern at Infosys Springboard.
+* 🎓 Currently serving as an SDE intern at Emergys Solutions Pvt Lmt.
 
 * 💻 Currently building Text Summmerizing  models for developing an efficient inference pipeline for real-time summarization.
 <div></div>
