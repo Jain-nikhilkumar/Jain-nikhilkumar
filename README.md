@@ -16,7 +16,7 @@
 </p>
 <h2></h2>
 
-* 📖 Pursuing B.Tech in Computer Sciendc & Engineering @ [Walchand Institute of Technology, Solapur](https://witsolapur.org/). 
+* 📖 Pursuing B.Tech in Computer Science & Engineering @ [Walchand Institute of Technology, Solapur](https://witsolapur.org/). 
 
 * 🎓 Currently serving as an SDE intern at Emergys Solutions Pvt Ltd.
 
