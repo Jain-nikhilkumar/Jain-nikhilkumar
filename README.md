@@ -21,7 +21,7 @@
 
 * 🎓 Currently serving as an SDE intern at Emergys Solutions Pvt Ltd.
 
-* 💻 Currently building Text Summmerizing  models for developing an efficient inference pipeline for real-time summarization.
+* 💻 Currently building Automatic Tariff Monitoring Agent.
 <div></div>
 <h2></h2>
 
