@@ -19,7 +19,7 @@
 
 * 📖 Pursuing B.Tech in Computer Science & Engineering @ [Walchand Institute of Technology, Solapur](https://witsolapur.org/). 
 
-* 🎓 Currently serving as an Software Engineer at Emergys Solutions Pvt Ltd. @ [Emergys Solutions](https://www.emergys.com/)
+* 🎓 Currently serving as an Software Engineer at Emergys Solutions Pvt Ltd. @ [Emergys Solutions](https://www.emergys.com/).
 
 * 💻 Currently building Automatic Tariff Monitoring Agent.
 <div></div>
